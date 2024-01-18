@@ -19,9 +19,10 @@
 <br />
 
 ### 🍋 History
+-  2023.10 ~ 24.01 [Deep Daiv](https://deepdaiv.oopy.io/), Fall season Multimodal Study Member
 -  2023.09 ~ DataBase Applications Mentor
 -  2023.07 ~ 2023.10 [Deep Daiv](https://deepdaiv.oopy.io/), Summer season Diffusion Study Member
--  2023.05 ~ 2023.07 [Deep Daiv](https://deepdaiv.oopy.io/), Spring season Paper Review Study Member
+-  2023.05 ~ 2023.07 [Deep Daiv](https://deepdaiv.oopy.io/), Spring season Deep Learning Paper Review Study Member
 -  2023.03 ~ 2023.08 Dongduk Cloud Flatform Study, Leader
 -  2023.03 ~ 2023.08 Outlier, Study Member
 -  2021.09 ~ 2022.12 Outlier, Project Study Member
