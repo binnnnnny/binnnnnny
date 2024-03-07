@@ -14,7 +14,7 @@
 <a href='https://github.com/YeabinLim'><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a> 
 <a href="https://velog.io/@yell0315"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
 <a href="mailto:0315yell@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a> 
-<a href="https://www.notion.so/2eddfc0954de41deae699867818347f2?pvs=433"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
+<a href="https://velog.io/@yell0315/posts"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
 
 <br />
 
