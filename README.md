@@ -19,6 +19,7 @@
 <br />
 
 ### 🍋 History
+-  2024.01 ~ 2024.04 [Deep Daiv](https://deepdaiv.oopy.io/), Winter season Deep Learning Architecture Study Member
 -  2023.10 ~ 24.01 [Deep Daiv](https://deepdaiv.oopy.io/), Fall season Multimodal Study Member
 -  2023.09 ~ DataBase Applications Mentor
 -  2023.07 ~ 2023.10 [Deep Daiv](https://deepdaiv.oopy.io/), Summer season Diffusion Study Member
